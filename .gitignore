@@ -1,0 +1,43 @@
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+*~
+.idea/
+.vscode/
+Thumbs.db
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+
+# Sass/SCSS
+.sass-cache/
+*.css.map
+
+# Build directories
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+._*
+.DS_Store
